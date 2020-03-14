@@ -1,0 +1,2 @@
+<record id = "product.product_template_action_dietfacts" 
+model = "ir.action.act_window"
